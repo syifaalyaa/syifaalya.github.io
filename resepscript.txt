@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tupperware</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav class="navbar">
+        <h1>Tupperware</h1>
+        <div class="nav-menu">
+            <p><a href="landing.html">Home</a></p>
+            <p>Articles</p>
+            <img src="instagram.svg" alt="instagram">
+            <img src="twitter.svg" alt="twitter">
+            <img src="linkedin.svg" alt="linkedin">
+        </div>
+    </nav>
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 300px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="gallery">
+  <a target="_blank" href="iga.jpg">
+    <img src="iga.jpg" alt="iga" width="1500" height="1500">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="nasiliwet.jpg">
+    <img src="nasiliwet.jpg" alt="nasi liwet" width="1500" height="1500">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="buburmutiara.jpg">
+    <img src="buburmutiara.jpg" alt="bubur mutiara" width="1500" height="1500">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="alpuket.jpg">
+    <img src="alpuket.jpg" alt="bubur mutiara" width="1500" height="1500">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+ </div>
+
+<div class="gallery">
+  <a target="_blank" href="iga.jpg">
+    <img src="iga.jpg" alt="iga" width="1500" height="1500">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="nasiliwet.jpg">
+    <img src="nasiliwet.jpg" alt="nasi liwet" width="1500" height="1500">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="buburmutiara.jpg">
+    <img src="buburmutiara.jpg" alt="bubur mutiara" width="1500" height="1500">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="alpuket.jpg">
+    <img src="alpuket.jpg" alt="bubur mutiara" width="1500" height="1500">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+ </div>
+
+    <footer>
+        <p><b>Tupperware</b> 2022 copyright all rights reserved</p>
+        <div>
+            <img src="instagram.svg" alt="instagram">
+            <img src="twitter.svg" alt="twitter">
+            <img src="linkedin.svg" alt="linkedin">
+        </div>
+    </footer>
+
+
+
+</body>
+</html>
+
+
